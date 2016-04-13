@@ -1,0 +1,11 @@
+!!! 5
+html
+  head
+  block styles
+    style(type='text/css',src='css/app.css')
+    //link(rel="stylesheet", type="text/css" href="style.css")
+  block scripts
+    script(type='text/javascript',src='https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js')
+    script(type='text/javascript',src='js/app.js')
+    body
+        p The message is: #{message}
