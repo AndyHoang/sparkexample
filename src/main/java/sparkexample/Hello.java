@@ -19,6 +19,7 @@ public class Hello {
     Map<String, String> map = new HashMap<>();
     map.put("message", "Hello World!");
     get("/hello", (req, res) -> new ModelAndView(map, "hello"), new JadeTemplateEngine());
+    get("/speedhello", (req, res) -> new ModelAndView(map, "speedhello"), new JadeTemplateEngine());
     //get("/hello", (req, res) -> {
     //  return "heheehehe";
     //});
