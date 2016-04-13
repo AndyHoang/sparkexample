@@ -5,6 +5,7 @@
 * Prove how to improve loading page speed
 * Using a java web application framework
 * Tasks will be trigger by maven
+
 ## Prerequisite
 * Java 8
 * [Jade syntax](http://jade-lang.com)
