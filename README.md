@@ -1,13 +1,17 @@
-A minimal example build with Docker and http://sparkjava.com/
+#A minimal example Spark framework
 
+## Purpose
+* To minify css/javascript file
+* Prove how to improve loading page speed
+* Using a java web application framework
+* Tasks will be trigger by maven
 
+## BY DOCKER
 See Makefile for building, running and deploying.
-
 Detailed description in this blogpost: http://blog.giantswarm.io/getting-started-with-java-development-on-docker
 
-# BY DOCKER
 
-# BY MAVEN ONLY
+## BY MAVEN ONLY
 1. Prerequisite
   * Java 8
   * Maven > 3.1
