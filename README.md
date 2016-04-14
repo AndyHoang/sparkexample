@@ -4,7 +4,7 @@
 * To minify css/javascript file
 * Prove how to improve loading page speed
 * Using a java web application framework
-* Tasks will be trigger by maven
+* Tasks will be triggered by maven
 
 ## Prerequisite
 * Java 8
