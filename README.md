@@ -24,7 +24,7 @@ Detailed description in this blogpost: http://blog.giantswarm.io/getting-started
 
 2. Run
   * Navigate to `pom.xml` folder
-  * `mvn packge` to compile to jar file
+  * `mvn package` to compile to jar file
   * `java -jar target/sparkexample-jar-with-dependencies.jar`
   * The Jetty standalone server is now online at port 4567
   * Signal end to stop server and rebuild again
